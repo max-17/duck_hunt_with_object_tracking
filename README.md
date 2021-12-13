@@ -1,6 +1,7 @@
-# TEJ3M-Duck-Hunt
+# Duck-Hunt
+
 Interactive Duck Hunt game written in processing java during my Computer Engineering class. \
-Features and Instructions are given in the header of the program source file. 
+Features and Instructions are given in the header of the program source file.
 
 Rooms for Improvement: \
 I saved each duck in individual variables. I recommended my future self to store them in an array instead; this way I \
