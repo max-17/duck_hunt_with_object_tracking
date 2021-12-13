@@ -11,3 +11,6 @@ efficient and simpler. However, in my defense, I didn't know how to do arrays in
 aasdsasj sa;dks;ldkas;kd;askd ask;dlaskd;askd;sadk asd;skd ;asd
 
 nma gapla adxamboy!?
+
+
+Akang kuchaydooooooo!!!!!!!!!!
