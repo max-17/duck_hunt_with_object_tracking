@@ -9,3 +9,5 @@ may iterate through the array to check each duck, instead of having if statement
 efficient and simpler. However, in my defense, I didn't know how to do arrays in Java at that point in time.
 
 aasdsasj sa;dks;ldkas;kd;askd ask;dlaskd;askd;sadk asd;skd ;asd
+
+nma gapla adxamboy!?
